@@ -1,0 +1,14 @@
+layout_spectrum: 0.24563478282652795
+typography_spectrum: 0.5606034332886338
+color:
+  brandStrength: 0.5530847629997879
+  lightness: 0.007561935810372233
+  saturation: 0.3345722716767341
+  rhythmicContrast: 0.19477265584282577
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: StretchStride
